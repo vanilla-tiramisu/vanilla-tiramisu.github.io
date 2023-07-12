@@ -1,4 +1,7 @@
 ### Hi there 👋
+- ✨ I'm a university student majoring in Software Engineering.
+- 🌱 I’m currently learning Android reverse basics & other fundamental security skills while preparing for the upcoming postgraduate entrance exam.
+- 🎨 Still a novice though, I like to post blogs to share my understandings. If there are mistakes in my posts, please tell me!
 
 <!--
 **vanilla-tiramisu/vanilla-tiramisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
